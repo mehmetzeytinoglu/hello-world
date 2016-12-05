@@ -1,2 +1,3 @@
 # hello-world
-Hello World repository
+
+This is just a simple Hello World app.
