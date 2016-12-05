@@ -1,3 +1,3 @@
 # hello-world
 
-This is just a simple Hello World app.
+Just simple readme file to check if everything is ok.
